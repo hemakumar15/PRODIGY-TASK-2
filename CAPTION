@@ -1,0 +1,17 @@
+Project Highlights: Stopwatch using HTML, CSS, and JavaScript 🚀
+🔹 Project Overview
+This is a digital stopwatch built using HTML, CSS, and JavaScript, featuring start, stop, and reset functionalities with a modern and unique UI.
+🔹 Features & Functionality
+✅ Start, Stop, and Reset Controls – The stopwatch can be started, stopped, and reset using buttons.
+✅ Millisecond Precision – The stopwatch runs with centisecond (1/100th sec) accuracy.
+✅ Auto-Updating UI – Hours, minutes, seconds, and milliseconds update dynamically.
+✅ Real-Time Timer Execution – Uses setTimeout() for smooth interval-based execution.
+🔹 UI & Design Enhancements
+🎨 Modern Color Scheme – Dark theme with vibrant text and buttons.
+🖌️ Sleek & Responsive Design – Uses a clean layout with improved button styling.
+⚡ Smooth Hover Effects – Buttons change color on hover for a polished look.
+🔹 Technologies Used
+🛠 HTML – Page structure
+🎨 CSS – Styling and layout
+⚡ JavaScript – Stopwatch logic and event handling
+hashtag#webdevelopment hashtag#Prodigyinfotech
